@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	height: 100vh;
+	width: 100vw;
+	background: white;
+	display: grid;
+	place-items: center;
+}
+
+.card{
+	padding: 10px;
+	border-radius:8px ;
+	min-height: 35vh;
+	background: #FF3C00;
+	height: 30S0px;
+	width: 200px;
+}
+
+h3{
+	font-size: 12px;
+}
+
+.button input{
+	height: 100%;
+	width: 30%;
+	outline: none;
+	color: #fff;
+	background: linear-gradient(135deg, blueviolet, #9b59b6);
+	border-radius: 5px;
+	border: none;
+	font-size: 15px;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+
+img{
+	height: 200%;
+	width: 100%;
+}
+
+button{
+	background: linear-gradient( skyblue, hotpink) ;
+	border-radius: 5px;
+	height: 20px;
+	width: 120%;
+}

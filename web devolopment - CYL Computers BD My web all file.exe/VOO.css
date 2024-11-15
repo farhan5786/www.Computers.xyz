@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #27282c;
+}
+
+
+button{
+	margin-top: 5.6px;
+	margin-bottom: 6px;
+	background: white;
+	border: 1px solid black;
+	padding: 3px;
+	border-radius: 5px;
+}
+
+button:hover{
+	background: linear-gradient(135deg, #f11457, #25c8e9);
+	color: white;
+	transition: .4s;
+	cursor: pointer;
+
+}
+
+.des{
+	margin: 10px;
+	color: white;
+}

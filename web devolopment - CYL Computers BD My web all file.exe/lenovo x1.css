@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'poppins', sans-serif;
+}
+
+
+body{
+	background: #27282c;
+}
+
+
+button{
+	height: 30px;
+	width: 90x;
+	border: 1px solid #9b59b6;
+	border-radius: 7px;
+	margin: 10px;
+}
+
+button:hover{
+	background: linear-gradient(135deg, #f11457, #25c8e9);
+	color: white;
+	transition: .4s;
+	cursor: pointer;
+
+}
+
+.des{
+	color: white;
+	margin: 10px;
+}
